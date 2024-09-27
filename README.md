@@ -1,21 +1,21 @@
 ##
 <div >
-<h1 align="center" style="animation-name:unset; animation-duration: .5ms;"> Hi👋🏻, I'm Ankit Modanwal 
+<h1 align="center" style="animation-name:unset; animation-duration: .4ms;"> Hi👋🏻, I'm Ankit Modanwal 
 </h1>
   
- <img align="right" top="500" height="300" width="400" alt="GIF"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ <img align="right" top="500" height="300" width="400" alt="GIF" border-radius = "3px"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <div>
   <p>
     <ul>
       <li>
-       💥 I'm currnetly working on <a href ="#"> Machine learning </a> along with <a href="#" > Backend Technologies. </a> 
+       💥 I'm currnetly working on <a href ="#"> Next-Js </a> along with <a href="#" > Machine learning using Python & its libraries  </a> 
       </li>
       <li>
-        🔭 I'm a <a href="#" > GSSOC'24 (Contributor)  </a> and <a href="#"> CA (Winter of Bloackchain-24). </a>
+        🔭 I'm a <a href="#" > <strong>GSSOC'24 (Contributor)</strong> & <strong>WoB'24</strong> </a> and <a href="#"> CA (Winter of Bloackchain). </a>
       </li>
-      <li> 👉 I'm currently learning <a href="#"> JS</a> and using its all <a href="#">Frameworks</a> as well. </li>
-      <li> 😯 I'm delving in <a href="#">  Data Analytics </a> field.  </li>
+      <li> 👉 I'm currently learning <a href="#"> </a> C++ as well. </li>
+      <li> 😯 I'm delving in <a href="#"> <strong> Data Analytics </a> field.  </li>
     </ul>
     </p>
 </div>
