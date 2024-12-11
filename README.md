@@ -9,7 +9,7 @@
   <p>
     <ul>
       <li>
-       💥 I'm currnetly working on <a href ="#"> Rect-js/Angular-js </a> along with <a href="#" > Machine learning using Python & its libraries  </a> 
+       💥 I'm currnetly working on <a href ="#"> Rect-js/Angular-js </a> along with <a href="#" > My Core IN AI-ML  </a> 
       </li>
       <li>
         🔭 I'm a <a href="#" > <strong>GSSOC'24 (Contributor)</strong> & <strong>WoB'24</strong> </a> and <a href="#"> CA (Winter of Bloackchain). </a>
