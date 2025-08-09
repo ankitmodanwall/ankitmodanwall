@@ -20,16 +20,22 @@
 ---
 
 ### 📊 GitHub Analytics
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitmodanwall&show_icons=true&theme=tokyonight&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitmodanwall&theme=tokyonight&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmodanwall&layout=compact&theme=tokyonight&hide_border=false)
+<a href="https://github.com/ankitmodanwall">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitmodanwall&show_icons=true&theme=tokyonight&count_private=true" />
+</a>  
+<a href="https://github.com/ankitmodanwall">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitmodanwall&theme=tokyonight&hide_border=false" />
+</a>  
+<a href="https://github.com/ankitmodanwall">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmodanwall&layout=compact&theme=tokyonight&hide_border=false" />
+</a>
 
 ---
 
 ### 📈 Contribution Graph
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmodanwall&theme=react-dark&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmodanwall&theme=react-dark&hide_border=false)](https://github.com/ankitmodanwall)
 
 ---
 
 ### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=ankitmodanwall&theme=tokyonight&no-frame=true&row=1&column=6)
+[![](https://github-profile-trophy.vercel.app/?username=ankitmodanwall&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ankitmodanwall)
