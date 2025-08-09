@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ankit+Modanwal;React+Developer+|+ML+Engineer;Full-Stack+Developer;Project+Mentor+@+GSSOC'25" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ankit+Modanwal;React+Developer+|+ML+Engineer;Full-Stack+Developer;Project+Mentor+@+GSSOC'25" />
 </h1>
 
 💻 **React Developer | Full-Stack & Machine Learning Engineer**  
@@ -33,9 +31,11 @@
 ---
 
 ### 📈 Contribution Graph
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmodanwall&theme=react-dark&hide_border=false)](https://github.com/ankitmodanwall)
+![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmodanwall&theme=react-dark&hide_border=false)
 
 ---
 
 ### 🏆 Achievements
-[![](https://github-profile-trophy.vercel.app/?username=ankitmodanwall&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ankitmodanwall)
+<a href="https://github.com/ankitmodanwall">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitmodanwall&theme=tokyonight&no-frame=true&row=1&column=6" />
+</a>
