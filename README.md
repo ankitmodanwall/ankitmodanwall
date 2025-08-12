@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ankit+Modanwal;React+Developer+|+ML+Engineer;Full-Stack+Developer;Project+Mentor+@+GSSOC'25" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ankit+Modanwal;React+Developer+|+ML+Engineer;Full-Stack+Developer;Project+Mentor+@+GSSOC'25" />
 </h1>
 
 💻 **React Developer | Full-Stack & Machine Learning Engineer**  
