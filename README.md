@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack 
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Firebase  
 **AI/ML:** Gemini AI, TensorFlow, PyTorch, Machine Learning Engineering  
@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 My Analytics
 <a href="https://github.com/ankitmodanwall">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitmodanwall&show_icons=true&theme=tokyonight&count_private=true" />
 </a>  
@@ -34,6 +34,7 @@
 ![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmodanwall&theme=react-dark&hide_border=false)
 
 ---
+
 
 ### 🏆 Achievements
 <a href="https://github.com/ankitmodanwall">
