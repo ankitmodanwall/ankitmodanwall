@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  ✨ <em>"Code. Create. Inspire."</em> ✨
+  ✨ <em>" Code -> Create -> Repeat "</em> ✨
 </p>
