@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Ankit+Modanwal;Full-Stack+Developer;React+%7C+ML+Engineer;Mentor+@+GSSOC'25" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Ankit+Modanwal;Gen+AI+Developer;React+%7C+ML+Engineer;Mentor+@+GSSOC'25" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 ---
 
 ## 🚀 About Me  
-💻 Full-Stack Developer & ML Engineer  
-🧠 Building with React.js, Next.js, Node.js, Firebase, TensorFlow  
-🎯 Mentor at GSSOC’25 | AI & Gemini AI Enthusiast  
+💻 AI Engineering && RAG VS LLM  
+🧠 Pure LLM RAG  
+🎯 Mentor at GSSOC’25 | AI & Gen AI  
 
 ---
 
