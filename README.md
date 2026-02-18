@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 💻 AI Engineering && RAG VS LLM  
-🧠 Pure LLM RAG  
-🎯 Mentor at GSSOC’25 | AI & Gen AI  
+- Pure LLM RAG  
+- Mentor at GSSOC’25 | AI & Gen AI  
 
 ---
 
-## ⚡ Tech Stack  
+##  Tech Stack  
 💻 **Frontend:** React.js, Next.js, Tailwind CSS  
 🛠 **Backend:** Node.js, Firebase  
-🤖 **AI/ML:** TensorFlow, PyTorch, Gemini AI  
+🤖 **AI/ML:** TensorFlow, PyTorch, Gemini AI ,Langchain
 📝 **Languages:** JavaScript, TypeScript, Python  
 
 ---
